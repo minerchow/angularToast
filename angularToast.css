@@ -1,0 +1,15 @@
+.angulat-toast{
+	width:200px;
+	height: 200px;
+	position: fixed;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+	-webkit-transform:translate(-50%,-50%);
+	background:rgba(0,0,0,0.6);
+	border-radius:4px;
+}
+.angulat-toast .text{
+	color: #fff;
+	font-size: 40px;
+}
